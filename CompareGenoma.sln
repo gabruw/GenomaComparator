@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CompareGenoma", "CompareGenoma\CompareGenoma.pyproj", "{76937251-1368-4B04-B893-D8232E7CBDE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76937251-1368-4B04-B893-D8232E7CBDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76937251-1368-4B04-B893-D8232E7CBDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089A8B9C-DAB0-45C6-9273-72F9A3AF6FC8}
+	EndGlobalSection
+EndGlobal
